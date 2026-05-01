@@ -67,4 +67,4 @@ streamlit run app/ui/streamlit_app.py
     - LangGraph Route: `escalate`.
     - Outputs escalation warning and files a pending ticket in the Sidebar hits dashboard!
 
-## BY A.PARITOSH
+## BY Hitesh Jain
